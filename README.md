@@ -26,6 +26,7 @@ sudo pmset proximitywake 0
 sudo pmset tcpkeepalive 0
 sudo pmset -c hibernatemode 25
 ```
+![](Hackintosh.png)
 
 |软件| 兼容性|
 |:-: | :-:|
@@ -39,4 +40,4 @@ sudo pmset -c hibernatemode 25
 2. 使用Docker可参考 [Ryzentosh](https://jetstudy.net/docker/install-docker-in-amd-hackintosh-ryzentosh-system/)
 
 ## 不正常工作
-- 未找到MT7921K(RZ608)WIFI及驱动
+- 未找到MT7921K(RZ608)WIFI及蓝牙的驱动
